@@ -1,0 +1,21 @@
+{
+  "name": "template-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^13.4.0-dev.1635897909.28688e2",
+    "node": "^16.10.0",
+    "src": "^1.1.2"
+  },
+  "devDependencies": {
+    "node": "^16.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
